@@ -1,0 +1,9 @@
+_id,level,name,parent,code
+managementunits000000001,0,Root,,0000001
+managementunits000000002,1,Phòng Giám đốc,managementunits000000001,0000002
+managementunits000000003,1,Phòng Kế hoạch,managementunits000000001,0000003
+managementunits000000004,1,Phòng Kỹ thuật,managementunits000000001,0000004
+managementunits000000005,1,Phòng Sản xuất,managementunits000000001,0000005
+managementunits000000006,1,Phòng Bán hàng,managementunits000000001,0000006
+managementunits000000007,1,Phòng Vận chuyển,managementunits000000001,0000007
+managementunits000000008,1,Khách hàng,managementunits000000001,0000008
