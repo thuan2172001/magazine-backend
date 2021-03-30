@@ -1,0 +1,6 @@
+...
+.gitignore
+.dockerignore
+# .env
+.env.sample
+./node_modules

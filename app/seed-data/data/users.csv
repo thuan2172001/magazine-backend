@@ -1,0 +1,11 @@
+username,publicKey,encryptedPrivateKey,issuerSignature,issuedPublicKey,fullName,email,birthDay,gender,phone,role,faculty,code,image,file,identifier,status
+student1,,,,,Student A,student1@gmail.com,1/1/2000,0,123456788,0000001,0000001,0000001,,,,
+student2,,,,,Student B,student2@gmail.com,1/1/2000,1,123456789,0000001,0000002,0000002,,,,
+student3,,,,,Student C,student3@gmail.com,1/1/2000,0,123456790,0000001,0000003,0000003,,,,
+student4,,,,,Student D,student4@gmail.com,1/1/2000,1,123456791,0000001,0000001,0000004,,,,
+coordinator1,,,,,Coordinator A,coordinator1@gmail.com,1/1/2000,0,123456722,0000002,0000001,0000005,,,,
+coordinator2,,,,,Coordinator B,coordinator2@gmail.com,1/1/2000,1,123456723,0000002,0000002,0000006,,,,
+coordinator3,,,,,Coordinator C,coordinator3@gmail.com,1/1/2000,0,123452232,0000002,0000003,0000007,,,,
+manager,,,,,Manager M,manager@gmail.com,1/1/2000,0,1234221232,0000003,0000003,0000008,,,,
+guest,,,,,Guest,guest,1/1/2000,1,19001501,0000004,0000001,0000009,,,,
+superadmin,,,,,Super Admin,superadmin@gmail.com,1/1/2000,1,123452222,0000005,0000001,00000010,,,,

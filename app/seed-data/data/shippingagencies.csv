@@ -1,0 +1,5 @@
+_id,name (ten don vi),code (ma don vi),phone,status,taxId,address,district,city,state,owner,images
+shippingagencies00000001,UniFarm,0000001,0987654321,,1234512345,100 Trung Kính,Yên Hòa,Cầu Giấy,Hà Nội,users0000000000000000041,
+shippingagencies00000002,Giao hàng tiết kiệm,0000002,0987654322,,1234512346,200 Trung Kính,Yên Hòa,Cầu Giấy,Hà Nội,users0000000000000000042,
+shippingagencies00000003,Viettel Post,0000003,0987654323,,1234512347,300 Trung Kính,Yên Hòa,Cầu Giấy,Hà Nội,users0000000000000000043,
+shippingagencies00000004,VNPost,0000004,0987654324,,1234512348,400 Trung Kính,Yên Hòa,Cầu Giấy,Hà Nội,users0000000000000000044,
